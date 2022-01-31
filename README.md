@@ -1,4 +1,4 @@
-# PyBerAnalysis
+PyBerAnalysis
 # PyBer Qtr 1 Analysis
 
 ## Overview of the analysis: 
@@ -6,8 +6,12 @@ A friend at Pyber as given us the task of utilizing Python & Pandas to analyze t
 
 ## Results:
 Fig 1
+![image](https://user-images.githubusercontent.com/96705257/151734290-a98683c9-b7bb-459d-b367-351b9fa67d9c.png)
 
+Fig 2 
+![image](https://user-images.githubusercontent.com/96705257/151734268-254ddbc6-98ce-415d-b41b-b91ee44d79bd.png)
 
+## Breakoutdown by type.:
 ### Urban
 
 ### Suburban
