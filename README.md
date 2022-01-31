@@ -13,8 +13,10 @@ Fig 2
 
 ## Breakoutdown by type.:
 ### Urban
-
+Urban fares are by fare the highest. They are nearly double that of Suburban wages, and almost 10x that of Rural fares in total prices. You’ll find there are 2400+ drivers in the Urban areas ready to pick up drivers compared to the average of 78 drivers in Rural areas. Yet, on average the far per Driver is significantly less. User wise, its cheaper to get a ride in the city. Driver wise, its easier to get paid in country-country rural areas. 
 ### Suburban
+The PyBer sweet spot. The happy median when it comes to drivers and users finding their needs, and this could be a demographic to focus marketing on. They average $30 per ride and have an average of 490 drivers. There rides per total drivers than both Rural & Urban communities. It may not bring it as much money as the Urban type, but it is a stable market to build a community of drivers and users in.
+
 
 ### Rural
 
